@@ -1,5 +1,11 @@
 # ATLIQ_Hospitality_Analysis_PowerBI_Project
 
+I have completed Codebasics Resume Project as part of my Data Project Portfolio development. This Project provided me with a valuable opportunity to enhance my Data Analysis skills. I put forth my utmost effort to successfully complete the Project, and I am eagerly looking forward to receiving constructive feedback to further improve my skills for future projects.
+
+codebasics Resume Project link:-https://codebasics.io/challenge/codebasics-resume-project-challenge
+
+
+
 I'm excited to share my first Power BI report, which focuses on revenue analysis for AtliQ Grands, a leading player in the hospitality industry. AtliQ Grands has been operating five-star hotels across India for the past two decades. However, recent challenges such as increased competition and ineffective decision-making have led to a decline in their market share and revenue in the luxury/business hotels segment.I was tasked with creating insights and a dashboard to provide actionable information for revenue management.
 
 ## Objective
